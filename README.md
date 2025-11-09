@@ -109,5 +109,3 @@ Faster
 Error-free
 
 User-friendly
-
-“If a task is repetitive, automate it.”
