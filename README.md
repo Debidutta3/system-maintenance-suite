@@ -74,16 +74,17 @@ This saves time, avoids mistakes, and increases productivity.
 
 ## ⚙️ **How to Run This Project**
 
-### **Step 1: Clone Repository**
 ```bash
+Step 1: Clone Repository**
 git clone <your-repository-link>
 cd system-maintenance-suite
 Step 2: Make Scripts Executable
 chmod +x *.sh
 Step 3: Run the Menu Script
 sudo ./maintenance_suite.sh
+```
 
-🧠 What I Learned
+## 🧠 What I Learned
 
 This project helped me understand:
 
@@ -99,7 +100,7 @@ Organizing a project and pushing to GitHub
 
 This project gave me a taste of what DevOps engineers do daily.
 
-✅ Conclusion
+## ✅ Conclusion
 
 This automation suite makes system maintenance:
 
