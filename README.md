@@ -76,7 +76,7 @@ This saves time, avoids mistakes, and increases productivity.
 
 ```bash
 Step 1: Clone Repository**
-git clone <your-repository-link>
+git clone <https://github.com/Debidutta3/system-maintenance-suite>
 cd system-maintenance-suite
 Step 2: Make Scripts Executable
 chmod +x *.sh
